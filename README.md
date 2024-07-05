@@ -179,3 +179,6 @@ A list of extensions that use the [svgl API](https://svgl.app/api), created by t
 ## 🔑 License
 
 - [MIT](https://github.com/pheralb/svgl/blob/main/LICENSE).
+
+- comentario de prueba
+- otro comentario de prueba
